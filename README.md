@@ -8,6 +8,18 @@
 
 ---
 
+<br>
+<div align="center">
+  <a href="https://github.com/muhammetsalci/holly_palm_case_study/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="50" alt="Download APK"/>
+  </a>
+  <br>
+  <sub><i>Tap to download & test immediately on Android</i></sub>
+</div>
+<br>
+
+---
+
 ## 📱 The App in Action
 
 | Product Detail Screen | Variant Selection | Cart Experience |

@@ -175,7 +175,7 @@ For commercial use, please contact the developer.
 **Muhammet Hüseyin Salcı**  
 I'm a Flutter developer who cares deeply about UX, clean code, and building apps that feel native. This project represents how I approach real-world problems—not just meeting requirements, but solving them thoughtfully.
 
-📬 [Email](mailto:m.huseyinsalc@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/muhammetsalci) · 🌐 [Portfolio](https://www.muhammetsalci.com/)
+📬 [Email](mailto:m.huseyinsalci@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/muhammetsalci) · 🌐 [Portfolio](https://www.muhammetsalci.com/)
 
 ---
 

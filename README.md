@@ -118,8 +118,8 @@ I didn't stop at the case study requirements. Here's what I added:
 
 1. **Clone & Install**
    ```bash
-   git clone https://github.com/muhammetsalci/holly_palm_case.git
-   cd holly_palm_case
+   git clone https://github.com/muhammetsalci/holly_palm_case_study.git
+   cd holly_palm_case_study
    flutter pub get
    ```
 
